@@ -21,6 +21,7 @@ nav{
 }
 
 .logo{
+    color:gold ;
     width: 50%;
     height: 100px;
 }
@@ -54,12 +55,12 @@ section{ display: flex;  }
 
 .leftside { width: 45%; height: auto; overflow: hidden; margin-top: 20px;}
 
-.leftside img{  width: 600px;  height: 500px; }
+.leftside img{  width: 80%;  height: 90%; }
 
 .rightside{ width: 55%; height: 300px; color: white; text-align: center; margin-top: 80px; padding: 40px;}
 
 .rightside h1{ text-align: center;
-    color: #ffffff;
+    color:yellow;
     font-size: 50px;
     font-weight: 900;
     text-transform: uppercase; } 
@@ -69,7 +70,7 @@ section{ display: flex;  }
 
 .rightside button{   font-size: 17px;
     font-weight: 600;
-    color: white;
+    color: red;
     text-transform: uppercase;
     background: linear-gradient(57deg, #00C6A7 , #1E4D92 ); 
     border-radius: 4px 4px 4px 4px;
